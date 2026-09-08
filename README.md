@@ -1,4 +1,4 @@
-# Welcome to Blog project
+# Welcome to my Blog Platform
 
 ## Project info
 
