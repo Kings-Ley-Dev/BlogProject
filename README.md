@@ -2,7 +2,7 @@
 
 ## Project info
 
-A full-stack, responsive blog platform designed to allow creators to publish, edit, and manage articles seamlessly. Built with modern web technologies, the application features user authentication, dynamic content rendering, interactive comments, and an intuitive dashboard for managing posts and user profiles.
+A full-stack, responsive blog platform designed to allow creators to publish, edit, and manage articles seamlessly. Built with modern web technologies, the application features user authentication, dynamic content rendering, interactive comments, and an intuitive dashboard for managing posts and user profiles. 
 
 **Key Features**
 
