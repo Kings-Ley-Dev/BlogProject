@@ -2,11 +2,11 @@
 
 use Illuminate\Support\Str;
 
-return [
+return [  
 
     /*
     |--------------------------------------------------------------------------
-    | Default Database Connection Name
+    | Default Database Connection Name  
     |--------------------------------------------------------------------------
     |
     | Here you may specify which of the database connections below you wish
