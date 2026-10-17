@@ -3,7 +3,7 @@
 <div class="sticky-top" style="top: 20px;">
     <!-- Categories Widget -->
     <div class="card shadow-sm border-0 mb-4">
-        <div class="card-header bg-primary text-white">
+        <div class="card-header bg-primary text-white">    
             <h6 class="mb-0"><i class="fas fa-folder me-2"></i>Categories</h6>
         </div>
         <div class="card-body">
