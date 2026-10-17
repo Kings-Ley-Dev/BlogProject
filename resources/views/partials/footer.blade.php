@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <!-- About Section -->
-            <div class="col-lg-4 col-md-6 mb-4">
+            <div class="col-lg-4 col-md-6 mb-4">  
                 <h5 class="fw-bold mb-3">
                     <i class="fas fa-blog me-2 text-warning"></i>Laravel Blog
                 </h5>
